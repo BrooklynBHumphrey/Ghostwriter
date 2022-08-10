@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b54fa27a3cfb4b042a9bfa5d5fab2856
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - outputText: {instanceID: 0}
+  - phraseBank: {instanceID: 0}
+  - playerData: {fileID: 11400000, guid: cd0ce66933ce9df4cbcfdd16b61b13c0, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
